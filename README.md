@@ -14,4 +14,4 @@ The objective of this project is to learn on how to create a website using only 
  - [X] Contact (Contato)
 
 # Acknowledgments
-[Desenvolvimento Web Completo 2022 - 20 cursos + 20 projetos](https://www.udemy.com/course/web-completo/)
+[Desenvolvimento Web Completo 2022](https://www.udemy.com/course/web-completo/)
