@@ -9,8 +9,8 @@ The objective of this project is to learn on how to create a website using only 
  2. Open the `index.html` file on your browser.
  
 # Roadmap
-[X] Home
-[ ] About us (Quem somos)
+[X] Home ] \n
+[ ] About us (Quem somos) \n
 [ ] Contact (Contato)
 
 # Acknowledgments
