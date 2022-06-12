@@ -8,5 +8,10 @@ The objective of this project is to learn on how to create a website using only 
  1. Clone the repo: `git clone https://github.com/Nawiab/unes.git`.
  2. Open the `index.html` file on your browser.
  
+# Roadmap
+[X] Home
+[ ] About us (Quem somos)
+[ ] Contact (Contato)
+
 # Acknowledgments
 [Desenvolvimento Web Completo 2022 - 20 cursos + 20 projetos](https://www.udemy.com/course/web-completo/)
