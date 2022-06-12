@@ -9,9 +9,9 @@ The objective of this project is to learn on how to create a website using only 
  2. Open the `index.html` file on your browser.
  
 # Roadmap
-[X] Home ] \n
-[ ] About us (Quem somos) \n
-[ ] Contact (Contato)
+ - [X] Home
+ - [ ] About us (Quem somos)
+ - [ ] Contact (Contato)
 
 # Acknowledgments
 [Desenvolvimento Web Completo 2022 - 20 cursos + 20 projetos](https://www.udemy.com/course/web-completo/)
